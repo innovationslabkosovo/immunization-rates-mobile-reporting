@@ -1,0 +1,15 @@
+MIDlet-1: Raportimi,,Vaccination.Raportimi
+MIDlet-2: Konfigurimi,,Vaccination.Konfigurimi
+MIDlet-3: Kerkesat,,Vaccination.Kerkesat
+MIDlet-Certificate-1-1: MIIBmzCCAQSgAwIBAgIEUW5irzANBgkqhkiG9w0BAQUFADASMRAwDgYDVQQDEwd0cnVzdGVkMB4XDTEzMDQxNzA4NTE1OVoXDTEzMTAxNDA4NTE1OVowEjEQMA4GA1UEAxMHdHJ1c3RlZDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAiYvA0AN4S1P33Mjr0zObrm04YK9lpNH+RF1eLPqWwM9D2YdJAH7x3Cv4g8Bhb9XdIL6Mq4/Z8R6SYJEcn7V8BqaFod9AImzDNvEfzBy/5w+AeucisnY+BZX6HdJCGjN8BUP9pEVfIqO6fvszyXapmlkOqzKFR6laW/EM99YjN/0CAwEAATANBgkqhkiG9w0BAQUFAAOBgQCAchxGsPcfUd7HEJVhoDX+RXP7n39SDRoAsTeAGa8s9EnXye0gFv4kbFGGxuRdDswSnzmQjrgKZNIS+ok1fcq2QfAZMNTCcPmJjkESJUEZBb4Kz3RtrYITMBZdykWlezc9qimXxWl2hbBJXjr0AZ2kgzMqt0Qbv+SN0aN27IwmdQ==
+MIDlet-Description: Raportimi i Imunizimit
+MIDlet-Icon: icon.png
+MIDlet-Info-URL: http://77.81.240.20/vaccination/Raportimi_i_Imunizimit.jar
+MIDlet-Jar-RSA-SHA1: L7837Aq/R+/KhgjgxM7E6F+oye1UtAUb2eOTklU6Kwyo7f5huK1US0ka6W3btEj4u4C/2E+CluPwt6DYtYNPtkfO9cAVd6TNPuAkVnKiRThzybVQJolH8o6ZzubwW4ztndRFF/rRX7/ldz+W6kdLxOaBpfVU+FcC5H0+LLcKaTc=
+MIDlet-Jar-Size: 462669
+MIDlet-Jar-URL: Raportimi i Imunizimit.jar
+MIDlet-Name: Raportimi i Imunizimit
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1

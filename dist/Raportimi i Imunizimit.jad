@@ -1,0 +1,14 @@
+MIDlet-1: Raportimi,,Vaccination.Raportimi
+MIDlet-2: Konfigurimi,,Vaccination.Konfigurimi
+MIDlet-3: Kerkesat,,Vaccination.Kerkesat
+MIDlet-Description: Raportimi i Imunizimit
+MIDlet-Icon: icon.png
+MIDlet-Info-URL: http://77.81.240.20/immunization_up/Raportimi_i_imunizimit.jad
+MIDlet-Jar-Size: 466504
+MIDlet-Jar-URL: Raportimi i Imunizimit.jar
+MIDlet-Name: Raportimi i Imunizimit
+MIDlet-Permissions: com.oracle.deviceaccess.adc, javax.microedition.pim.ToDoList.write, javax.microedition.pim.EventList.write, javax.microedition.pim.ToDoList.read, javax.microedition.pim.EventList.read
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1
